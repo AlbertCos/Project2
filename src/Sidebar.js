@@ -15,8 +15,6 @@ import DuoIcon from "@material-ui/icons/Duo";
 import PhoneIcon from "@material-ui/icons/Phone";
 
 
-
-
 function Sidebar() {
     return (
         <div className="sidebar">
